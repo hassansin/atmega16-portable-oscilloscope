@@ -29,3 +29,7 @@ Hardware Specifications:
 PC Interfacing:
 ---------------------
 One of the exciting features of this oscilloscope is that it can be used with Desktop PC or Laptop (PCO). Various analysis applications like Matlab can be used to perform signal processing in real-time.  It can also be used as Logic analyzer, spectrum analyzer or data-logger.
+
+Screenshots:
+----------------------
+![Screnshot1](https://raw.githubusercontent.com/hassansin/atmega16-portable-oscilloscope/master/screenshots/IMG_3668.JPG)
